@@ -1,0 +1,6 @@
+C:\Users\Rahul Nishant\Documents\GitHub\C#\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\Rahul Nishant\Documents\GitHub\C#\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\Rahul Nishant\Documents\GitHub\C#\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\Rahul Nishant\Documents\GitHub\C#\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\Rahul Nishant\Documents\GitHub\C#\Grades\Grades\obj\Debug\Grades.pdb
+C:\Users\Rahul Nishant\Documents\GitHub\C#\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache

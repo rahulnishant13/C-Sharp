@@ -1,0 +1,6 @@
+C:\Users\Rahul Nishant\Documents\GitHub\C#\LinQ\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\Rahul Nishant\Documents\GitHub\C#\LinQ\LinQ\bin\Debug\LinQ.exe
+C:\Users\Rahul Nishant\Documents\GitHub\C#\LinQ\LinQ\bin\Debug\LinQ.pdb
+C:\Users\Rahul Nishant\Documents\GitHub\C#\LinQ\LinQ\obj\Debug\LinQ.csprojResolveAssemblyReference.cache
+C:\Users\Rahul Nishant\Documents\GitHub\C#\LinQ\LinQ\obj\Debug\LinQ.exe
+C:\Users\Rahul Nishant\Documents\GitHub\C#\LinQ\LinQ\obj\Debug\LinQ.pdb
